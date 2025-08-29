@@ -177,7 +177,7 @@ CREATE TABLE users (
    ```
 
 ### Mobile Setup
-1. **Navigate to Flutter project**
+1. **Navigate to Flutter project(Fronted code is in the master branch)**
    ```bash
    cd jwt-auth-system/mobile
    ```
@@ -480,7 +480,7 @@ Flutter (mobil) ve Spring Boot (backend) ile e-posta doğrulamalı, JWT tabanlı
    ```
 
 ### Mobil Kurulum
-1. **Flutter projesine gidin**
+1. **Flutter projesine gidin(FLUTTER kodu master branch'inin içinde**
    ```bash
    cd jwt-auth-system/mobile
    ```
