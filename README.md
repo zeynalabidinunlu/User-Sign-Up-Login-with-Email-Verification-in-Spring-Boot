@@ -1,6 +1,6 @@
 # JWT Authentication System - Flutter & Spring Boot
 
-A complete JWT-based authentication system with email verification, built with Flutter (mobile) and Spring Boot (backend).
+A complete JWT-based authentication system with email verification, built with Flutter (mobile) and Spring Boot (backend).(Fronted code is in the master branch)
 
 ## 📋 Table of Contents
 - [Features](#features)
@@ -344,7 +344,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # JWT Kimlik Doğrulama Sistemi - Flutter & Spring Boot
 
-Flutter (mobil) ve Spring Boot (backend) ile e-posta doğrulamalı, JWT tabanlı kapsamlı kimlik doğrulama sistemi.
+Flutter (mobil) ve Spring Boot (backend) ile e-posta doğrulamalı, JWT tabanlı kapsamlı kimlik doğrulama sistemi.(Fronted kodu master branch içinde)
 
 ## 📋 İçindekiler
 - [Özellikler](#özellikler)
